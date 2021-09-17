@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Dat1Feet Blog	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://datdeptraii2401.github.io/mywordpress</link>
+	Các phản hồi luận về: Top rapper nổi tiếng nhất Việt Nam	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2021/09/17/top-rapper-noi-tieng-nhat-viet-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpress/2021/09/17/top-rapper-noi-tieng-nhat-viet-nam/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 17 Sep 2021 11:23:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Sep 2021 11:20:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

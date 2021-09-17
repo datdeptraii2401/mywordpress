@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Dat1Feet Blog	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://datdeptraii2401.github.io/mywordpress</link>
+	Các phản hồi luận về: 10 thí sinh nổi bật của Rap Việt mùa 1	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2021/09/17/10-thi-sinh-noi-bat-cua-rap-viet-mua-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpress/2021/09/17/10-thi-sinh-noi-bat-cua-rap-viet-mua-1/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 17 Sep 2021 11:23:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
